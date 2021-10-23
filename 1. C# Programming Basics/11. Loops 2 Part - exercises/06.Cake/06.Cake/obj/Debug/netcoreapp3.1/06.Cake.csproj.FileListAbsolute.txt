@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb

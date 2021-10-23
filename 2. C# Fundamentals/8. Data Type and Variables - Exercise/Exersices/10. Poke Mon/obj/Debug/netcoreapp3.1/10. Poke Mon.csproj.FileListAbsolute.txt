@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.exe
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.pdb
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.pdb

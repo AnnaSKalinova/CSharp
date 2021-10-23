@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\bin\Debug\netcoreapp3.1\10.Volleyball.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\bin\Debug\netcoreapp3.1\10.Volleyball.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\bin\Debug\netcoreapp3.1\10.Volleyball.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\bin\Debug\netcoreapp3.1\10.Volleyball.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\bin\Debug\netcoreapp3.1\10.Volleyball.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\bin\Debug\netcoreapp3.1\10.Volleyball.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\obj\Debug\netcoreapp3.1\10.Volleyball.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\obj\Debug\netcoreapp3.1\10.Volleyball.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\obj\Debug\netcoreapp3.1\10.Volleyball.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\10.Volleyball\obj\Debug\netcoreapp3.1\10.Volleyball.pdb

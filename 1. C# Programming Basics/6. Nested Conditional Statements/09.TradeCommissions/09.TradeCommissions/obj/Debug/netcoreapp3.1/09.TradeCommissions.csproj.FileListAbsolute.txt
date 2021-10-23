@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.pdb

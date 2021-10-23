@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.pdb

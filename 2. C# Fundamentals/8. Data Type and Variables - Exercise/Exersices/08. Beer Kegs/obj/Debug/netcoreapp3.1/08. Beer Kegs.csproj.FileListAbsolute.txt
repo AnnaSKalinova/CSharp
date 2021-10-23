@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.exe
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.pdb

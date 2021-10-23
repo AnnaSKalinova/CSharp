@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.pdb

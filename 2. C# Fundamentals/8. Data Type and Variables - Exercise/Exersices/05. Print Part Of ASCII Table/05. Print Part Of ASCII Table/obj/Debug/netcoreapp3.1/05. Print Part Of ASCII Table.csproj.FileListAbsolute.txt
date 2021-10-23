@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.exe
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\05. Print Part Of ASCII Table\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb

@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.pdb

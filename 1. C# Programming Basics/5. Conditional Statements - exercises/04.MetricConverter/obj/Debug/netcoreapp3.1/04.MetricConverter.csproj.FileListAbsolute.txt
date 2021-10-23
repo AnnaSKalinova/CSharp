@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\04.MetricConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.pdb

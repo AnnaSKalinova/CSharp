@@ -1,0 +1,10 @@
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.deps.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.dev.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.pdb
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfoInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.pdb

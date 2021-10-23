@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\bin\Debug\netcoreapp2.1\2.RadiansToDegrees.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\bin\Debug\netcoreapp2.1\2.RadiansToDegrees.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\bin\Debug\netcoreapp2.1\2.RadiansToDegrees.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\bin\Debug\netcoreapp2.1\2.RadiansToDegrees.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\bin\Debug\netcoreapp2.1\2.RadiansToDegrees.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\obj\Debug\netcoreapp2.1\2.RadiansToDegrees.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\obj\Debug\netcoreapp2.1\2.RadiansToDegrees.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\obj\Debug\netcoreapp2.1\2.RadiansToDegrees.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\obj\Debug\netcoreapp2.1\2.RadiansToDegrees.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\obj\Debug\netcoreapp2.1\2.RadiansToDegrees.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\2.RadiansToDegrees\2.RadiansToDegrees\obj\Debug\netcoreapp2.1\2.RadiansToDegrees.pdb

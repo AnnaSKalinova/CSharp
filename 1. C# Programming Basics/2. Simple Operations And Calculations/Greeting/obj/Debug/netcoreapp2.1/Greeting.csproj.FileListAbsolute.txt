@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\bin\Debug\netcoreapp2.1\Greeting.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\bin\Debug\netcoreapp2.1\Greeting.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\bin\Debug\netcoreapp2.1\Greeting.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\bin\Debug\netcoreapp2.1\Greeting.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\bin\Debug\netcoreapp2.1\Greeting.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\obj\Debug\netcoreapp2.1\Greeting.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\obj\Debug\netcoreapp2.1\Greeting.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\obj\Debug\netcoreapp2.1\Greeting.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\obj\Debug\netcoreapp2.1\Greeting.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\obj\Debug\netcoreapp2.1\Greeting.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\Greeting\Greeting\obj\Debug\netcoreapp2.1\Greeting.pdb

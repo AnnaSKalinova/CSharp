@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\bin\Debug\netcoreapp3.1\02. From Left to the Right.exe
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\bin\Debug\netcoreapp3.1\02. From Left to the Right.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\bin\Debug\netcoreapp3.1\02. From Left to the Right.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\bin\Debug\netcoreapp3.1\02. From Left to the Right.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\bin\Debug\netcoreapp3.1\02. From Left to the Right.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\bin\Debug\netcoreapp3.1\02. From Left to the Right.pdb
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\obj\Debug\netcoreapp3.1\02. From Left to the Right.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\obj\Debug\netcoreapp3.1\02. From Left to the Right.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\obj\Debug\netcoreapp3.1\02. From Left to the Right.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\More Exercises\02. From Left to the Right\obj\Debug\netcoreapp3.1\02. From Left to the Right.pdb

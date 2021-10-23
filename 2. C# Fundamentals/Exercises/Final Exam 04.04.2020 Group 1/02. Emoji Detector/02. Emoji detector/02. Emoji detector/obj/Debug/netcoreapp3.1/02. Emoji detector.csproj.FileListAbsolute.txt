@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\bin\Debug\netcoreapp3.1\02. Emoji detector.exe
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\bin\Debug\netcoreapp3.1\02. Emoji detector.deps.json
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\bin\Debug\netcoreapp3.1\02. Emoji detector.runtimeconfig.json
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\bin\Debug\netcoreapp3.1\02. Emoji detector.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\bin\Debug\netcoreapp3.1\02. Emoji detector.dll
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\bin\Debug\netcoreapp3.1\02. Emoji detector.pdb
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\obj\Debug\netcoreapp3.1\02. Emoji detector.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\obj\Debug\netcoreapp3.1\02. Emoji detector.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\obj\Debug\netcoreapp3.1\02. Emoji detector.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\obj\Debug\netcoreapp3.1\02. Emoji detector.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\obj\Debug\netcoreapp3.1\02. Emoji detector.dll
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\obj\Debug\netcoreapp3.1\02. Emoji detector.pdb
+C:\Users\Ivan\source\repos\02. Emoji detector\02. Emoji detector\obj\Debug\netcoreapp3.1\02. Emoji detector.genruntimeconfig.cache

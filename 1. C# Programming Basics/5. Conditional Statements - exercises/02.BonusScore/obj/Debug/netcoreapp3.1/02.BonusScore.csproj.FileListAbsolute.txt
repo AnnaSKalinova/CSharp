@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.pdb

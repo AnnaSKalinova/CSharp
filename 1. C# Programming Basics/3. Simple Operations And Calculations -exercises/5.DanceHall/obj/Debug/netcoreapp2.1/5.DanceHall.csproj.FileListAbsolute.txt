@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\bin\Debug\netcoreapp2.1\5.DanceHall.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\bin\Debug\netcoreapp2.1\5.DanceHall.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\bin\Debug\netcoreapp2.1\5.DanceHall.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\bin\Debug\netcoreapp2.1\5.DanceHall.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\bin\Debug\netcoreapp2.1\5.DanceHall.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\obj\Debug\netcoreapp2.1\5.DanceHall.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\obj\Debug\netcoreapp2.1\5.DanceHall.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\obj\Debug\netcoreapp2.1\5.DanceHall.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\obj\Debug\netcoreapp2.1\5.DanceHall.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\obj\Debug\netcoreapp2.1\5.DanceHall.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\5.DanceHall\obj\Debug\netcoreapp2.1\5.DanceHall.pdb

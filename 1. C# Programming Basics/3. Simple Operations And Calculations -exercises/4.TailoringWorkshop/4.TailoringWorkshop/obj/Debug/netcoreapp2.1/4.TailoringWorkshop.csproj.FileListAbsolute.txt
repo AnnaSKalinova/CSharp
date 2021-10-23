@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\bin\Debug\netcoreapp2.1\4.TailoringWorkshop.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\bin\Debug\netcoreapp2.1\4.TailoringWorkshop.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\bin\Debug\netcoreapp2.1\4.TailoringWorkshop.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\bin\Debug\netcoreapp2.1\4.TailoringWorkshop.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\bin\Debug\netcoreapp2.1\4.TailoringWorkshop.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\obj\Debug\netcoreapp2.1\4.TailoringWorkshop.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\obj\Debug\netcoreapp2.1\4.TailoringWorkshop.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\obj\Debug\netcoreapp2.1\4.TailoringWorkshop.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\obj\Debug\netcoreapp2.1\4.TailoringWorkshop.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\obj\Debug\netcoreapp2.1\4.TailoringWorkshop.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\3. Прости операции и пресмятания - упражнения\4.TailoringWorkshop\4.TailoringWorkshop\obj\Debug\netcoreapp2.1\4.TailoringWorkshop.pdb

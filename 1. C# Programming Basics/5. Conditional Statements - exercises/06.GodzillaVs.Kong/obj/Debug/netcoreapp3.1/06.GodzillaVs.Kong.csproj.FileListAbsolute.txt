@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.pdb

@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.pdb

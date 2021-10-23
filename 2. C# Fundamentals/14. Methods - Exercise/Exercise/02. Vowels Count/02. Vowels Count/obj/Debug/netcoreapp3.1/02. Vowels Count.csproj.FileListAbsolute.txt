@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\02. Vowels Count\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb

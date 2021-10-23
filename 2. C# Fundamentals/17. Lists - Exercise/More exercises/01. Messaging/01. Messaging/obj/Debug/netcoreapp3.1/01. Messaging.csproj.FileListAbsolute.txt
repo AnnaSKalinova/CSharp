@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.exe
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.pdb
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\01. Messaging\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.pdb

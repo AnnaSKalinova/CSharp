@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.pdb

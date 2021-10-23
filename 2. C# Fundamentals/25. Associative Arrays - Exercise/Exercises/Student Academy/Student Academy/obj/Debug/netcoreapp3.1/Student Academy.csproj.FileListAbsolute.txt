@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.exe
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.dll
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.pdb
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.dll
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\Student Academy\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.pdb

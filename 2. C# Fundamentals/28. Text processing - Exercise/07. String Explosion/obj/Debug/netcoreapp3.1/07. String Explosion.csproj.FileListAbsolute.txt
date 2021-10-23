@@ -1,0 +1,13 @@
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.genruntimeconfig.cache

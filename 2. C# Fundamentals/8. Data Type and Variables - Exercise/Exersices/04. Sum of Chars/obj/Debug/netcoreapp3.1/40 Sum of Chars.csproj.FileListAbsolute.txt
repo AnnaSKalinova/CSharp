@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\obj\Debug\netcoreapp3.1\40 Sum of Chars.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\obj\Debug\netcoreapp3.1\40 Sum of Chars.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\bin\Debug\netcoreapp3.1\40 Sum of Chars.exe
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\bin\Debug\netcoreapp3.1\40 Sum of Chars.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\bin\Debug\netcoreapp3.1\40 Sum of Chars.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\bin\Debug\netcoreapp3.1\40 Sum of Chars.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\bin\Debug\netcoreapp3.1\40 Sum of Chars.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\bin\Debug\netcoreapp3.1\40 Sum of Chars.pdb
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\obj\Debug\netcoreapp3.1\40 Sum of Chars.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\40 Sum of Chars\obj\Debug\netcoreapp3.1\40 Sum of Chars.pdb

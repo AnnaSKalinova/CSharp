@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfeyKqLdBrVEqW5m+Fg6YE5Hv/Mi6z3wsBvj5olO3PCv5Cc6iIYpzoIWUARyBuXfjEpwNod/AVAM4TpaFZIPPg==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\3. C# Fundamentals\\28. Text processing - Exercise\\6.  Replace Repeating Chars\\6.  Replace Repeating Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

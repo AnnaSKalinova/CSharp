@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.pdb

@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\6.CircleAreaAndPerimeter\6.CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\6.CircleAreaAndPerimeter.pdb

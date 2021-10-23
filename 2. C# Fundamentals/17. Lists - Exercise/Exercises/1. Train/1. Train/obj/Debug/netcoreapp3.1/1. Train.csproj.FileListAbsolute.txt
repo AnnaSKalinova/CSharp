@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.exe
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.pdb
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.pdb

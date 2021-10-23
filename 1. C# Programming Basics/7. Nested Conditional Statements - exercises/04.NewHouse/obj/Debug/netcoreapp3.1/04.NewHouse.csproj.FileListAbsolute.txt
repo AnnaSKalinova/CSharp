@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\01.PointОnRectangleBorder\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.pdb

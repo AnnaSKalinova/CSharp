@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\bin\Debug\netcoreapp3.1\9.GraduationPt2.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\bin\Debug\netcoreapp3.1\9.GraduationPt2.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\bin\Debug\netcoreapp3.1\9.GraduationPt2.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\bin\Debug\netcoreapp3.1\9.GraduationPt2.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\bin\Debug\netcoreapp3.1\9.GraduationPt2.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\bin\Debug\netcoreapp3.1\9.GraduationPt2.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\obj\Debug\netcoreapp3.1\9.GraduationPt2.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\obj\Debug\netcoreapp3.1\9.GraduationPt2.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\obj\Debug\netcoreapp3.1\9.GraduationPt2.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\9.GraduationPt2\obj\Debug\netcoreapp3.1\9.GraduationPt2.pdb

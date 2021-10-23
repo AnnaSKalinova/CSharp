@@ -1,0 +1,11 @@
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\bin\Debug\netcoreapp2.1\Expression.deps.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.dev.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\bin\Debug\netcoreapp2.1\Expression.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\bin\Debug\netcoreapp2.1\Expression.pdb
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\obj\Debug\netcoreapp2.1\Expression.csprojAssemblyReference.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\obj\Debug\netcoreapp2.1\Expression.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfoInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfo.cs
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\obj\Debug\netcoreapp2.1\Expression.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Expression\obj\Debug\netcoreapp2.1\Expression.pdb

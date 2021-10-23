@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\bin\Debug\netcoreapp2.1\04.Number1To9ToText.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\bin\Debug\netcoreapp2.1\04.Number1To9ToText.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\bin\Debug\netcoreapp2.1\04.Number1To9ToText.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\bin\Debug\netcoreapp2.1\04.Number1To9ToText.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\bin\Debug\netcoreapp2.1\04.Number1To9ToText.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\obj\Debug\netcoreapp2.1\04.Number1To9ToText.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\obj\Debug\netcoreapp2.1\04.Number1To9ToText.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\obj\Debug\netcoreapp2.1\04.Number1To9ToText.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\obj\Debug\netcoreapp2.1\04.Number1To9ToText.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\obj\Debug\netcoreapp2.1\04.Number1To9ToText.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\04.Number1To9ToText\obj\Debug\netcoreapp2.1\04.Number1To9ToText.pdb

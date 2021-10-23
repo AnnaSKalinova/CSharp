@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\bin\Debug\netcoreapp3.1\05.Travelling.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\05.Travelling\obj\Debug\netcoreapp3.1\05.Travelling.pdb

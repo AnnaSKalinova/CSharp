@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\bin\Debug\netcoreapp2.1\4.InchesToCentimeters.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\bin\Debug\netcoreapp2.1\4.InchesToCentimeters.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\bin\Debug\netcoreapp2.1\4.InchesToCentimeters.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\bin\Debug\netcoreapp2.1\4.InchesToCentimeters.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\bin\Debug\netcoreapp2.1\4.InchesToCentimeters.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\obj\Debug\netcoreapp2.1\4.InchesToCentimeters.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\obj\Debug\netcoreapp2.1\4.InchesToCentimeters.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\obj\Debug\netcoreapp2.1\4.InchesToCentimeters.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\obj\Debug\netcoreapp2.1\4.InchesToCentimeters.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\4.InchesToCentimeters\4.InchesToCentimeters\obj\Debug\netcoreapp2.1\4.InchesToCentimeters.pdb

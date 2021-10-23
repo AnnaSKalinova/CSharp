@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.exe
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\bin\Debug\netcoreapp3.1\7. Append Arrays.pdb
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\7. Append Arrays\obj\Debug\netcoreapp3.1\7. Append Arrays.pdb

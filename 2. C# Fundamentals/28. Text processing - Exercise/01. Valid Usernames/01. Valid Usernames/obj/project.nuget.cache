@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wg87YB+hWAIySXAljrGCokxkrLuJ9s6MGPall4hA6MZ8obqlCydV3Ir9WM8XgM3Yw5pzlQNRQlO8PVmlsxfpg==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\3. C# Fundamentals\\28. Text processing - Exercise\\01. Valid Usernames\\01. Valid Usernames\\01. Valid Usernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

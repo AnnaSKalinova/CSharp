@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\bin\Debug\netcoreapp3.1\04.EvenPowersOf2.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\04.EvenPowersOf2\obj\Debug\netcoreapp3.1\04.EvenPowersOf2.pdb

@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.pdb

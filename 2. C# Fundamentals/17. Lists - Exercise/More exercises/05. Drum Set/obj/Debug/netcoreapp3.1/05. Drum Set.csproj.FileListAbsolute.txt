@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.exe
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.pdb
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.dll
+E:\AnNI\Programming\3. C# Fundamentals\17. Lists - Exercise\More exercises\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.pdb

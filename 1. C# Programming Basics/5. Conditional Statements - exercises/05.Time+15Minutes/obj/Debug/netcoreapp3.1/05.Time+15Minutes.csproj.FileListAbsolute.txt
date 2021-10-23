@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\bin\Debug\netcoreapp3.1\05.Time+15Minutes.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\bin\Debug\netcoreapp3.1\05.Time+15Minutes.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\bin\Debug\netcoreapp3.1\05.Time+15Minutes.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\bin\Debug\netcoreapp3.1\05.Time+15Minutes.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\bin\Debug\netcoreapp3.1\05.Time+15Minutes.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\bin\Debug\netcoreapp3.1\05.Time+15Minutes.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\obj\Debug\netcoreapp3.1\05.Time+15Minutes.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\obj\Debug\netcoreapp3.1\05.Time+15Minutes.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\obj\Debug\netcoreapp3.1\05.Time+15Minutes.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\obj\Debug\netcoreapp3.1\05.Time+15Minutes.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\05.Time+15Minutes\obj\Debug\netcoreapp3.1\05.Time+15Minutes.pdb

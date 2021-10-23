@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipGLAAkHFmUGodXzVa31HxROE4nBEYU5Fr7swpdiUzOqHeIGJ0oygRo+G13eMW+p0U3KS0a39YGHmUd3DfjcXg==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\3. C# Fundamentals\\25. Associative Arrays - Exercise\\More exercises\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

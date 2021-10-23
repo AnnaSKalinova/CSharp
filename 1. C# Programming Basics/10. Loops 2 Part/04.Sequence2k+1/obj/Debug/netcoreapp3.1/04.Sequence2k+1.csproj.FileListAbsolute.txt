@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\10. Цикли - втора част\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.pdb

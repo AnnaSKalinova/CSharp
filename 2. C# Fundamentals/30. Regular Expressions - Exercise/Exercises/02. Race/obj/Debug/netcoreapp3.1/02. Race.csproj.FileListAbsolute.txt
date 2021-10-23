@@ -1,0 +1,12 @@
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\bin\Debug\netcoreapp3.1\02. Race.exe
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\bin\Debug\netcoreapp3.1\02. Race.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\bin\Debug\netcoreapp3.1\02. Race.dll
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\bin\Debug\netcoreapp3.1\02. Race.pdb
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\obj\Debug\netcoreapp3.1\02. Race.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\obj\Debug\netcoreapp3.1\02. Race.dll
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\obj\Debug\netcoreapp3.1\02. Race.pdb
+E:\AnNI\Programming\3. C# Fundamentals\30. Regular Expressions - Exercise\Exercises\02. Race\obj\Debug\netcoreapp3.1\02. Race.genruntimeconfig.cache

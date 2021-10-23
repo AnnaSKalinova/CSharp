@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\bin\Debug\netcoreapp3.1\08.Scholarship.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\5. Проверки - упражнения\08.Scholarship\obj\Debug\netcoreapp3.1\08.Scholarship.pdb

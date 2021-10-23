@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+E:\AnNI\Programming\3. C# Fundamentals\14. Methods - Exercise\Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb

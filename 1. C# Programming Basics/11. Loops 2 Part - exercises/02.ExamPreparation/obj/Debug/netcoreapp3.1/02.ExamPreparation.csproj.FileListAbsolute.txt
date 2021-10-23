@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.pdb

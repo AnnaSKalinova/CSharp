@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.exe
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\bin\Debug\netcoreapp3.1\1. Integer Operations.pdb
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.dll
+E:\AnNI\Programming\3. C# Fundamentals\8. Data Type and Variables - Exercise\1. Integer Operations\1. Integer Operations\obj\Debug\netcoreapp3.1\1. Integer Operations.pdb

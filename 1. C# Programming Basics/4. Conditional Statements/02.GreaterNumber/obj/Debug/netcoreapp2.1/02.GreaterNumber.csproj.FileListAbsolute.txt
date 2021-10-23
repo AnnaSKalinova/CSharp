@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.pdb

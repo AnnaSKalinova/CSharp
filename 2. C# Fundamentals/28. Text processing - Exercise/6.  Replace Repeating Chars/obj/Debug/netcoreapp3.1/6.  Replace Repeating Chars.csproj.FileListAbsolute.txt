@@ -1,0 +1,13 @@
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.exe
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.dll
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.  Replace Repeating Chars.pdb
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.dll
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.pdb
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.genruntimeconfig.cache
+E:\AnNI\Programming\3. C# Fundamentals\28. Text processing - Exercise\6.  Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.  Replace Repeating Chars.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\04.SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04.SumOfTwoNumbers.csprojAssemblyReference.cache

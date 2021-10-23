@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb

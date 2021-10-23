@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.TradeCommissions", "09.TradeCommissions\09.TradeCommissions.csproj", "{50FE9BCD-0B39-45D0-BC64-3D9ECD329D88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SkiTrip", "..\10.SkiTrip\10.SkiTrip.csproj", "{EEDC201C-2604-4FF1-925A-E88C6331FEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FE9BCD-0B39-45D0-BC64-3D9ECD329D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FE9BCD-0B39-45D0-BC64-3D9ECD329D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FE9BCD-0B39-45D0-BC64-3D9ECD329D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FE9BCD-0B39-45D0-BC64-3D9ECD329D88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDC201C-2604-4FF1-925A-E88C6331FEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDC201C-2604-4FF1-925A-E88C6331FEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDC201C-2604-4FF1-925A-E88C6331FEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDC201C-2604-4FF1-925A-E88C6331FEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD615F49-B7FD-4F6C-9B1E-A1812A7DA99A}
+	EndGlobalSection
+EndGlobal

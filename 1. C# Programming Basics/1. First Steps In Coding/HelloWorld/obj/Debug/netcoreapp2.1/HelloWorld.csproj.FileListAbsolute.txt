@@ -1,0 +1,11 @@
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb

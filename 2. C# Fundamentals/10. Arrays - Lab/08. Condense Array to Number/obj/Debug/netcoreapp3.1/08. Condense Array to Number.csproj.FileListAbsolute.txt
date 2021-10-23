@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.exe
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.pdb

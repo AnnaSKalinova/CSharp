@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.exe
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.dll
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp3.1\10. SoftUni Exam Results.pdb
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.dll
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp3.1\10. SoftUni Exam Results.pdb

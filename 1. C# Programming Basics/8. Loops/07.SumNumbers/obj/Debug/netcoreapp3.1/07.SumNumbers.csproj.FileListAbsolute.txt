@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.pdb

@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.exe
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+E:\AnNI\Programming\3. C# Fundamentals\7. Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb

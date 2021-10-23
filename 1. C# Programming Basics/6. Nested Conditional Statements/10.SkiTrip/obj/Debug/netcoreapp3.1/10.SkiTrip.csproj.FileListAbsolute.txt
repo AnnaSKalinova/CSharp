@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.pdb

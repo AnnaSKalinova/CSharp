@@ -1,0 +1,13 @@
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.exe
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.dll
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\bin\Debug\netcoreapp3.1\03. Pirates.pdb
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.dll
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.pdb
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\03. P!rates\03. Pirates\obj\Debug\netcoreapp3.1\03. Pirates.genruntimeconfig.cache

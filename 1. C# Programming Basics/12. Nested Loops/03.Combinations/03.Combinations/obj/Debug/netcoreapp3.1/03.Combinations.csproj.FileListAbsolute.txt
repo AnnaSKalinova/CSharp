@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\bin\Debug\netcoreapp3.1\03.Combinations.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\12. Вложени цикли\03.Combinations\03.Combinations\obj\Debug\netcoreapp3.1\03.Combinations.pdb

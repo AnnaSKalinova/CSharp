@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{221FD18E-B028-4716-92D0-7B1BA7FCC6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221FD18E-B028-4716-92D0-7B1BA7FCC6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221FD18E-B028-4716-92D0-7B1BA7FCC6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221FD18E-B028-4716-92D0-7B1BA7FCC6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221FD18E-B028-4716-92D0-7B1BA7FCC6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4A9D7A-D1B8-4167-B09A-ED7BE5069032}
+	EndGlobalSection
+EndGlobal

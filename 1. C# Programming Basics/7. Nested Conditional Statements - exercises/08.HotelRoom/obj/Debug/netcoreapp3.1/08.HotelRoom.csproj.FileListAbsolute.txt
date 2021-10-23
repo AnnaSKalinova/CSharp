@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\7. Вложени условни конструкции - упражнения\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.pdb

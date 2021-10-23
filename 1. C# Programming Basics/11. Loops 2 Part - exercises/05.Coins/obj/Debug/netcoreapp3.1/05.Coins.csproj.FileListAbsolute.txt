@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb

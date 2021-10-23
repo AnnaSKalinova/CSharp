@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\11. Цикли - втора част - упражнения\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb

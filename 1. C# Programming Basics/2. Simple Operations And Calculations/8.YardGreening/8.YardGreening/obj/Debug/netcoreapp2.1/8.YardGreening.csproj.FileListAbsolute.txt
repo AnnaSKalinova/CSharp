@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\bin\Debug\netcoreapp2.1\8.YardGreening.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\bin\Debug\netcoreapp2.1\8.YardGreening.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\bin\Debug\netcoreapp2.1\8.YardGreening.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\bin\Debug\netcoreapp2.1\8.YardGreening.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\bin\Debug\netcoreapp2.1\8.YardGreening.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\obj\Debug\netcoreapp2.1\8.YardGreening.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\obj\Debug\netcoreapp2.1\8.YardGreening.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\obj\Debug\netcoreapp2.1\8.YardGreening.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\obj\Debug\netcoreapp2.1\8.YardGreening.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\2. Прости операции и пресмятания\8.YardGreening\8.YardGreening\obj\Debug\netcoreapp2.1\8.YardGreening.pdb

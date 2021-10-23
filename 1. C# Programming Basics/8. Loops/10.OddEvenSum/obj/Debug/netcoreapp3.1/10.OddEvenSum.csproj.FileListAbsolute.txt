@@ -1,0 +1,10 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.pdb

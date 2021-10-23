@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\bin\Debug\netcoreapp3.1\01.DayОfWeek.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\6. Вложени условни конструкции\01.DayОfWeek\01.DayОfWeek\obj\Debug\netcoreapp3.1\01.DayОfWeek.pdb

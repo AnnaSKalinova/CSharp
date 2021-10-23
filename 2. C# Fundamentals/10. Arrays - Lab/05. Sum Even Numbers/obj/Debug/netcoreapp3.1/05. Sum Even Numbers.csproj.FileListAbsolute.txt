@@ -1,0 +1,10 @@
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.exe
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+E:\AnNI\Programming\3. C# Fundamentals\10. Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb

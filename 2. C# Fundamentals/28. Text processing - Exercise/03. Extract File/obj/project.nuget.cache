@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GF4Pm1Nxre2/FfiazwzO1GFrmKfNbFqj2VBTRz93vjL+tRGjterb1dNQqes54QIo8mizz7FwaF0JEADYpj/AjQ==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\3. C# Fundamentals\\28. Text processing - Exercise\\03. Extract File\\03. Extract File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

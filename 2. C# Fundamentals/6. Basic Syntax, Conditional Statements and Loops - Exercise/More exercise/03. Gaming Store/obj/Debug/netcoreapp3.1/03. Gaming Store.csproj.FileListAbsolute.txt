@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.exe
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.deps.json
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.dll
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.pdb
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.dll
+E:\AnNI\Programming\Programming Ani 2020\2. C# Fundamentals 2020\6. Basic Syntax, Conditional Statements and Loops - Exercise\More exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.pdb

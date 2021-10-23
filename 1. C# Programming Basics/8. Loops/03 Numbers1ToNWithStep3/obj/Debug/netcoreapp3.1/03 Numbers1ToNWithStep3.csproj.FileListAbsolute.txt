@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.exe
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\8. Цикли\03 Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03 Numbers1ToNWithStep3.pdb

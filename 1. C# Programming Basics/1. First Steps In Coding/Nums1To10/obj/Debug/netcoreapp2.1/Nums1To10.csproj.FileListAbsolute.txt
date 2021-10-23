@@ -1,0 +1,10 @@
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\bin\Debug\netcoreapp2.1\Nums1To10.deps.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\bin\Debug\netcoreapp2.1\Nums1To10.runtimeconfig.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\bin\Debug\netcoreapp2.1\Nums1To10.runtimeconfig.dev.json
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\bin\Debug\netcoreapp2.1\Nums1To10.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\bin\Debug\netcoreapp2.1\Nums1To10.pdb
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\obj\Debug\netcoreapp2.1\Nums1To10.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\obj\Debug\netcoreapp2.1\Nums1To10.AssemblyInfoInputs.cache
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\obj\Debug\netcoreapp2.1\Nums1To10.AssemblyInfo.cs
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\obj\Debug\netcoreapp2.1\Nums1To10.dll
+E:\AnNI\Programming\1. Programming Basics NEW\1. Първи стъпки в програмирането\HelloWorld\Nums1To10\obj\Debug\netcoreapp2.1\Nums1To10.pdb

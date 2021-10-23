@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.exe
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.dll
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.pdb
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.dll
+E:\AnNI\Programming\3. C# Fundamentals\25. Associative Arrays - Exercise\Exercises\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.pdb

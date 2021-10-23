@@ -1,0 +1,11 @@
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.exe
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.dll
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\bin\Debug\netcoreapp3.1\9. Kamino Factory.pdb
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.dll
+E:\AnNI\Programming\3. C# Fundamentals\11. Arrays - Exercise\Exercise\9. Kamino Factory\obj\Debug\netcoreapp3.1\9. Kamino Factory.pdb

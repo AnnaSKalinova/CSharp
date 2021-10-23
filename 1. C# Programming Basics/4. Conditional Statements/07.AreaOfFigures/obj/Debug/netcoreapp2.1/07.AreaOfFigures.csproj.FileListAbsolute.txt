@@ -1,0 +1,11 @@
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\bin\Debug\netcoreapp2.1\07.AreaOfFigures.deps.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\bin\Debug\netcoreapp2.1\07.AreaOfFigures.runtimeconfig.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\bin\Debug\netcoreapp2.1\07.AreaOfFigures.runtimeconfig.dev.json
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\bin\Debug\netcoreapp2.1\07.AreaOfFigures.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\bin\Debug\netcoreapp2.1\07.AreaOfFigures.pdb
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\obj\Debug\netcoreapp2.1\07.AreaOfFigures.csprojAssemblyReference.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\obj\Debug\netcoreapp2.1\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\obj\Debug\netcoreapp2.1\07.AreaOfFigures.AssemblyInfoInputs.cache
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\obj\Debug\netcoreapp2.1\07.AreaOfFigures.AssemblyInfo.cs
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\obj\Debug\netcoreapp2.1\07.AreaOfFigures.dll
+E:\AnNI\Programming\Programming Ani NEW\1. Programming Basics NEW\4. Проверки\07.AreaOfFigures\obj\Debug\netcoreapp2.1\07.AreaOfFigures.pdb

@@ -1,0 +1,13 @@
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csprojAssemblyReference.cache
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+E:\AnNI\Programming\3. C# Fundamentals\Exercises\Final Exam 04.04.2020 Group 1\01. Activation Keys\01. Activation Keys\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache
