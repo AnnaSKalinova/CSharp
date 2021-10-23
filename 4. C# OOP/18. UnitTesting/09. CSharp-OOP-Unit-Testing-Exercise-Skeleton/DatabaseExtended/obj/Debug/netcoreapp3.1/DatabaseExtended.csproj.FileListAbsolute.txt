@@ -1,0 +1,9 @@
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache

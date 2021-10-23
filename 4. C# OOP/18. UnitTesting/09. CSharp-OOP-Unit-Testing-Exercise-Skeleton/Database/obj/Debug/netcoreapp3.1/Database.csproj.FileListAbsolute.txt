@@ -1,0 +1,9 @@
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache

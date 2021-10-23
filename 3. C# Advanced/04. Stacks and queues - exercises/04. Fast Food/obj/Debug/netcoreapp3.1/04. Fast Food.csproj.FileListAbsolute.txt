@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache

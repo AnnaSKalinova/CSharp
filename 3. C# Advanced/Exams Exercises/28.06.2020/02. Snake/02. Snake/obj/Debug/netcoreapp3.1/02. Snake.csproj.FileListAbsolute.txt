@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.exe
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.deps.json
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.dll
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.pdb
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.dll
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.pdb
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\02. Snake\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.genruntimeconfig.cache

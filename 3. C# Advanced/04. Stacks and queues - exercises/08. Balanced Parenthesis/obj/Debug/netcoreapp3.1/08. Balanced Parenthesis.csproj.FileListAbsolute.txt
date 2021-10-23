@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.exe
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.deps.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.genruntimeconfig.cache

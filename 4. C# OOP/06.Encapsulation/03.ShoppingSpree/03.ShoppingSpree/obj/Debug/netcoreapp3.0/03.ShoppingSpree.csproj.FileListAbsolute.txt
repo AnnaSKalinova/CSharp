@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\bin\Debug\netcoreapp3.0\03.ShoppingSpree.exe
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\bin\Debug\netcoreapp3.0\03.ShoppingSpree.deps.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\bin\Debug\netcoreapp3.0\03.ShoppingSpree.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\bin\Debug\netcoreapp3.0\03.ShoppingSpree.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\bin\Debug\netcoreapp3.0\03.ShoppingSpree.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\bin\Debug\netcoreapp3.0\03.ShoppingSpree.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\obj\Debug\netcoreapp3.0\03.ShoppingSpree.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\obj\Debug\netcoreapp3.0\03.ShoppingSpree.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\obj\Debug\netcoreapp3.0\03.ShoppingSpree.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\obj\Debug\netcoreapp3.0\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\obj\Debug\netcoreapp3.0\03.ShoppingSpree.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\obj\Debug\netcoreapp3.0\03.ShoppingSpree.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\03.ShoppingSpree\03.ShoppingSpree\obj\Debug\netcoreapp3.0\03.ShoppingSpree.genruntimeconfig.cache

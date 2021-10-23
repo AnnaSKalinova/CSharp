@@ -1,0 +1,12 @@
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\MyWebServer.deps.json
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\MyWebServer.dll
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\ref\MyWebServer.dll
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\MyWebServer.pdb
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.AssemblyReference.cache
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfoInputs.cache
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfo.cs
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.dll
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\ref\MyWebServer.dll
+E:\AnNI\Programming\10. C# Web Basics\26.06.2021 Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.pdb

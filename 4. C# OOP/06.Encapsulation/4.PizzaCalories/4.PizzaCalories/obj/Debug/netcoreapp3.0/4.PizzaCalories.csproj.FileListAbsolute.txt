@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\bin\Debug\netcoreapp3.0\4.PizzaCalories.exe
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\bin\Debug\netcoreapp3.0\4.PizzaCalories.deps.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\bin\Debug\netcoreapp3.0\4.PizzaCalories.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\bin\Debug\netcoreapp3.0\4.PizzaCalories.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\bin\Debug\netcoreapp3.0\4.PizzaCalories.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\bin\Debug\netcoreapp3.0\4.PizzaCalories.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\obj\Debug\netcoreapp3.0\4.PizzaCalories.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\obj\Debug\netcoreapp3.0\4.PizzaCalories.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\obj\Debug\netcoreapp3.0\4.PizzaCalories.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\obj\Debug\netcoreapp3.0\4.PizzaCalories.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\obj\Debug\netcoreapp3.0\4.PizzaCalories.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\obj\Debug\netcoreapp3.0\4.PizzaCalories.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\4.PizzaCalories\4.PizzaCalories\obj\Debug\netcoreapp3.0\4.PizzaCalories.genruntimeconfig.cache

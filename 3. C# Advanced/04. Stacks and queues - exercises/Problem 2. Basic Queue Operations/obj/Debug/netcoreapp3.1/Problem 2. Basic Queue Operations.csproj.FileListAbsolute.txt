@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.exe
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.deps.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\Problem 2. Basic Queue Operations.genruntimeconfig.cache

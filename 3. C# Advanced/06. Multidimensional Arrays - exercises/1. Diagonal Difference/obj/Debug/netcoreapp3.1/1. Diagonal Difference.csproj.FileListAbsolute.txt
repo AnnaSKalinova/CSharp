@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.exe
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.deps.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\bin\Debug\netcoreapp3.1\1. Diagonal Difference.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\1. Diagonal Difference\obj\Debug\netcoreapp3.1\1. Diagonal Difference.genruntimeconfig.cache

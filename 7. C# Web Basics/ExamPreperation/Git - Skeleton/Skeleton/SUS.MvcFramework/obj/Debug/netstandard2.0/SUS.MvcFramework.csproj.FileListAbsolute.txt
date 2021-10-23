@@ -1,0 +1,12 @@
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.deps.json
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.AssemblyReference.cache
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfo.cs
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb

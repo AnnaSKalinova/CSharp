@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.exe
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.deps.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.0\04.GenericSwapMethodInteger.genruntimeconfig.cache

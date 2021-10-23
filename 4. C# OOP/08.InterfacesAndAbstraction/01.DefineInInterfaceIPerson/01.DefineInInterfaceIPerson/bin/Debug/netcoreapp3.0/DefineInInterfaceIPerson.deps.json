@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DefineInInterfaceIPerson/1.0.0": {
+        "runtime": {
+          "DefineInInterfaceIPerson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefineInInterfaceIPerson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

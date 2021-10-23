@@ -1,0 +1,9 @@
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

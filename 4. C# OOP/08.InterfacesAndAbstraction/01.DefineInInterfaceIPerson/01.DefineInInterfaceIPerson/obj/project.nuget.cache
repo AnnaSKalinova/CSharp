@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwVAeEnqyRJgjCFzXOGoV4vP28ZHKYTPMZBOwITmz1R1ZVHP19uXX9djPg/3C0uY6Qco7qzBchAFIBZyZSPhCA==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\5. OOP new\\08.InterfacesAndAbstraction\\01.DefineInInterfaceIPerson\\01.DefineInInterfaceIPerson\\01.DefineInInterfaceIPerson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.exe
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.deps.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\09. List Of Predicates\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.genruntimeconfig.cache

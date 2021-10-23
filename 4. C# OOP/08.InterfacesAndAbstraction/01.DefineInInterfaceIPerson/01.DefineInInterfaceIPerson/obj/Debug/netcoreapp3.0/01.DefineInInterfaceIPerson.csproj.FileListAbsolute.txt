@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineInInterfaceIPerson.exe
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineInInterfaceIPerson.deps.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineInInterfaceIPerson.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineInInterfaceIPerson.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineInInterfaceIPerson.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\bin\Debug\netcoreapp3.0\DefineInInterfaceIPerson.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\obj\Debug\netcoreapp3.0\01.DefineInInterfaceIPerson.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\obj\Debug\netcoreapp3.0\01.DefineInInterfaceIPerson.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\obj\Debug\netcoreapp3.0\01.DefineInInterfaceIPerson.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\obj\Debug\netcoreapp3.0\01.DefineInInterfaceIPerson.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineInInterfaceIPerson.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\obj\Debug\netcoreapp3.0\DefineInInterfaceIPerson.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\01.DefineInInterfaceIPerson\01.DefineInInterfaceIPerson\obj\Debug\netcoreapp3.0\01.DefineInInterfaceIPerson.genruntimeconfig.cache

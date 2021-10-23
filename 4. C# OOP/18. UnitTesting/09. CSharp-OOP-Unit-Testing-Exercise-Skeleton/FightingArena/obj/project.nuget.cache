@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QeMxKpy2neOsUWmgfiGUJ+J9Iy8zmKskVqQBVpdi/dg9n5K9qj/uXdiTg1BX12LUQIfg6+HBLEUqfKC5OLvLQ==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\5. OOP\\18. UnitTesting\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\FightingArena\\FightingArena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.testplatform\\16.8.0\\microsoft.testplatform.16.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

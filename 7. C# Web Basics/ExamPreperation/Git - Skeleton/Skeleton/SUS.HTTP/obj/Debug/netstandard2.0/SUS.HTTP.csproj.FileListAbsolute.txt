@@ -1,0 +1,9 @@
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.AssemblyReference.cache
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+E:\AnNI\Programming\10. C# Web Basics\ExamPreperation\Git - Skeleton\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb

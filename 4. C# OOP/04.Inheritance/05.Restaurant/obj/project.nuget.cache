@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjT8n3pUaG4IniR8cVd738opVT6Q1mF6wy3L7Hsc2BATHFqR+G1grEyAF/PtVIJbLtlu/WE1FlruqxTwN63+yg==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\5. OOP new\\04.Inheritance\\05.Restaurant\\05.Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

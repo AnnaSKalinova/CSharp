@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+E:\AnNI\Programming\5. OOP\12.12.2020\01. Structure_Problem_Skeleton\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

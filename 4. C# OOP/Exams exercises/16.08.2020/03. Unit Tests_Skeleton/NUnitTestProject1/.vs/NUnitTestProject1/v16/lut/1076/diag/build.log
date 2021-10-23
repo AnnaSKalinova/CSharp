@@ -1,0 +1,42 @@
+[20:12:33.515 Verbose] - BuildManager - E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\Program.cs(7,21): error CS0017: Program has more than one entry point defined. Compile with /main to specify the type that contains the entry point.
+[20:12:33.516 Verbose] - BuildManager - C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Roslyn\Microsoft.CSharp.Core.targets(71,5): error MSB4181: The "Csc" task returned false but did not log an error.
+[20:12:33.520 Verbose] - BuildManager - Some of the file paths defined in the csproj under the Live Unit Testing build path are missing. Verify whether these files should be present under the Live Unit Testing build path and if necessary update the csproj definition to look these files up in a different place.
+[20:12:33.521 Verbose] - BuildManager - Item _OutputPathItem 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\Debug\netcoreapp3.1\' evaluated via:
+_OutputPathItem: '$(OutDir)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:275
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:194
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:246
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\' @ E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\Computers.csproj:0
+        Configuration: 'Debug'
+[20:12:33.521 Verbose] - BuildManager - Item AppConfigFileDestination 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.dll.config' evaluated via:
+AppConfigFileDestination: '$(OutDir)$(TargetFileName).config' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:306
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:194
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:246
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\' @ E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\Computers.csproj:0
+        Configuration: 'Debug'
+  TargetFileName: '$(TargetName)$(TargetExt)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:213
+    TargetName: '$(AssemblyName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:205
+      AssemblyName: '$(MSBuildProjectName)' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.props:32
+        MSBuildProjectName: 'Computers'
+    TargetExt: '.dll' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.BeforeCommon.targets:98
+[20:12:33.521 Verbose] - BuildManager - Item _DebugSymbolsOutputPath 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.pdb' evaluated via:
+_DebugSymbolsOutputPath: '@(_DebugSymbolsIntermediatePath->'$(OutDir)%(Filename)%(Extension)')' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:375
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:194
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:246
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\' @ E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\Computers.csproj:0
+        Configuration: 'Debug'
+[20:12:33.521 Verbose] - BuildManager - Item _ApplicationManifestFinal 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\Debug\netcoreapp3.1\Computers.dll.manifest' evaluated via:
+_ApplicationManifestFinal: '$(OutDir)$(_DeploymentTargetApplicationManifestFileName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:413
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:194
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:246
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\.vs\NUnitTestProject1\v16\lut\0\b\Computers\' @ E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\Computers.csproj:0
+        Configuration: 'Debug'
+  _DeploymentTargetApplicationManifestFileName: '$(TargetFileName).manifest' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:233
+    TargetFileName: '$(TargetName)$(TargetExt)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:213
+      TargetName: '$(AssemblyName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:205
+        AssemblyName: '$(MSBuildProjectName)' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.props:32
+          MSBuildProjectName: 'Computers'
+      TargetExt: '.dll' @ C:\Program Files\dotnet\sdk\5.0.101\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.BeforeCommon.targets:98

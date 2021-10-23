@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RH3tLgrP2HFy02tDPblmNXlsp3+DqGYWR2UGxdtX35DaSveFXkiYPe4aN9/et4aJF4t7/tIDs4bhvEowxxMDmw==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\4. C# Advanced new\\Exams Exercises\\28.06.2020\\03. Parking\\03.Parking\\Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

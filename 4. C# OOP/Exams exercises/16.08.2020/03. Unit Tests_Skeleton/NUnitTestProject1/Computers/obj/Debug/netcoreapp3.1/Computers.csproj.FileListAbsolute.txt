@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+E:\AnNI\Programming\5. OOP\Exams exercises\16.08.2020\03. Unit Tests_Skeleton\NUnitTestProject1\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxCq1CwRYjjtqFKhQmJ18LoE1y6UfBIQx4Osowv0u73TtWp6xpuZg4JxnqQBbY0saBRDcqmtsP1SuXwF8K7k7g==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\5. OOP\\Exams exercises\\16.04.2020\\03. Unit Tests_Skeleton\\Computers\\Computers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

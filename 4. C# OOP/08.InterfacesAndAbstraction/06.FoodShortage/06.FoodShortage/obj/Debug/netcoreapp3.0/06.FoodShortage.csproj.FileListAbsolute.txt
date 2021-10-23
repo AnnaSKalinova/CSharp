@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\bin\Debug\netcoreapp3.0\06.FoodShortage.exe
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\bin\Debug\netcoreapp3.0\06.FoodShortage.deps.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\bin\Debug\netcoreapp3.0\06.FoodShortage.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\bin\Debug\netcoreapp3.0\06.FoodShortage.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\bin\Debug\netcoreapp3.0\06.FoodShortage.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\bin\Debug\netcoreapp3.0\06.FoodShortage.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\obj\Debug\netcoreapp3.0\06.FoodShortage.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\obj\Debug\netcoreapp3.0\06.FoodShortage.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\obj\Debug\netcoreapp3.0\06.FoodShortage.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\obj\Debug\netcoreapp3.0\06.FoodShortage.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\obj\Debug\netcoreapp3.0\06.FoodShortage.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\obj\Debug\netcoreapp3.0\06.FoodShortage.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\06.FoodShortage\06.FoodShortage\obj\Debug\netcoreapp3.0\06.FoodShortage.genruntimeconfig.cache

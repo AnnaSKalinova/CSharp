@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.exe
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.deps.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.genruntimeconfig.cache

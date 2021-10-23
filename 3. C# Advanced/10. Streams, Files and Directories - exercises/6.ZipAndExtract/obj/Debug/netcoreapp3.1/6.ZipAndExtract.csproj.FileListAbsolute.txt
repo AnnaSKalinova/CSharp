@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\bin\Debug\netcoreapp3.1\6.ZipAndExtract.exe
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\bin\Debug\netcoreapp3.1\6.ZipAndExtract.deps.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\bin\Debug\netcoreapp3.1\6.ZipAndExtract.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\bin\Debug\netcoreapp3.1\6.ZipAndExtract.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\bin\Debug\netcoreapp3.1\6.ZipAndExtract.dll
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\bin\Debug\netcoreapp3.1\6.ZipAndExtract.pdb
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\obj\Debug\netcoreapp3.1\6.ZipAndExtract.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\obj\Debug\netcoreapp3.1\6.ZipAndExtract.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\obj\Debug\netcoreapp3.1\6.ZipAndExtract.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\obj\Debug\netcoreapp3.1\6.ZipAndExtract.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\obj\Debug\netcoreapp3.1\6.ZipAndExtract.dll
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\obj\Debug\netcoreapp3.1\6.ZipAndExtract.pdb
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\6.ZipAndExtract\obj\Debug\netcoreapp3.1\6.ZipAndExtract.genruntimeconfig.cache

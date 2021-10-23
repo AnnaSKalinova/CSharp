@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.exe
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.deps.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.genruntimeconfig.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.exe
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.deps.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.dll
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.dll
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.genruntimeconfig.cache

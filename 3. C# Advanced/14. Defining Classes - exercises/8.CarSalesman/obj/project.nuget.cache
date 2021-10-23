@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsfOihrW9Vx3XtpkNNUSFRlomhtgeMHJpjKnxaU/EfdmKDf6nFbhzGmLI1fidvWwKgpqS8nfSd6Yt7vCR5yQZw==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\4. C# Advanced new\\11. Defining Classes - exercises\\8.CarSalesman\\8.CarSalesman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

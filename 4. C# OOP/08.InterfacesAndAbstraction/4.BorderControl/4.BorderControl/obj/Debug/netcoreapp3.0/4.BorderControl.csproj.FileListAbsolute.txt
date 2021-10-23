@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\bin\Debug\netcoreapp3.0\4.BorderControl.exe
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\bin\Debug\netcoreapp3.0\4.BorderControl.deps.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\bin\Debug\netcoreapp3.0\4.BorderControl.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\bin\Debug\netcoreapp3.0\4.BorderControl.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\bin\Debug\netcoreapp3.0\4.BorderControl.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\bin\Debug\netcoreapp3.0\4.BorderControl.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\obj\Debug\netcoreapp3.0\4.BorderControl.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\obj\Debug\netcoreapp3.0\4.BorderControl.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\obj\Debug\netcoreapp3.0\4.BorderControl.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\obj\Debug\netcoreapp3.0\4.BorderControl.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\obj\Debug\netcoreapp3.0\4.BorderControl.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\obj\Debug\netcoreapp3.0\4.BorderControl.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\4.BorderControl\4.BorderControl\obj\Debug\netcoreapp3.0\4.BorderControl.genruntimeconfig.cache

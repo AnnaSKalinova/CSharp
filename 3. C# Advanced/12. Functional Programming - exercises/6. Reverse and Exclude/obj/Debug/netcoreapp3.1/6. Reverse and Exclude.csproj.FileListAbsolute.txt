@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.exe
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.deps.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\bin\Debug\netcoreapp3.1\6. Reverse and Exclude.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\6. Reverse and Exclude\obj\Debug\netcoreapp3.1\6. Reverse and Exclude.genruntimeconfig.cache

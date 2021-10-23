@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\bin\Debug\netcoreapp3.0\02.Collection.exe
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\bin\Debug\netcoreapp3.0\02.Collection.deps.json
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\bin\Debug\netcoreapp3.0\02.Collection.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\bin\Debug\netcoreapp3.0\02.Collection.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\bin\Debug\netcoreapp3.0\02.Collection.dll
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\bin\Debug\netcoreapp3.0\02.Collection.pdb
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\obj\Debug\netcoreapp3.0\02.Collection.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\obj\Debug\netcoreapp3.0\02.Collection.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\obj\Debug\netcoreapp3.0\02.Collection.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\obj\Debug\netcoreapp3.0\02.Collection.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\obj\Debug\netcoreapp3.0\02.Collection.dll
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\obj\Debug\netcoreapp3.0\02.Collection.pdb
+E:\AnNI\Programming\4. C# Advanced\20. Iterators and Comparators\02.Collection\02.Collection\obj\Debug\netcoreapp3.0\02.Collection.genruntimeconfig.cache

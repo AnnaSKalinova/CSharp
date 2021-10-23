@@ -1,0 +1,9 @@
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\18. UnitTesting\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache

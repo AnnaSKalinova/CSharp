@@ -1,0 +1,16 @@
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\testhost.exe
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\testhost.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\nunit.engine.core.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.deps.json
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.runtimeconfig.json
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\b\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.csproj.CopyComplete
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\22.08.2020\03. Unit Tests_Skeleton\UnitTests-Skeleton\.vs\TheRace\v16\lut\0\i\TheRace.Tests\Debug\netcoreapp3.1\TheRace.Tests.genruntimeconfig.cache

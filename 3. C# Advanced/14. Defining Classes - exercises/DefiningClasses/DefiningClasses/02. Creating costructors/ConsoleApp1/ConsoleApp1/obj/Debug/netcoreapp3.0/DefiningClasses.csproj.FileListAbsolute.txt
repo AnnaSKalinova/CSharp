@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\DefiningClasses.exe
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\DefiningClasses.deps.json
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\DefiningClasses.dll
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\DefiningClasses.pdb
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\DefiningClasses.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\DefiningClasses.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\DefiningClasses.dll
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\DefiningClasses.pdb
+E:\AnNI\Programming\4. C# Advanced\14. Defining classes - exercises\DefiningClasses\DefiningClasses\02. Creating costructors\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\DefiningClasses.genruntimeconfig.cache

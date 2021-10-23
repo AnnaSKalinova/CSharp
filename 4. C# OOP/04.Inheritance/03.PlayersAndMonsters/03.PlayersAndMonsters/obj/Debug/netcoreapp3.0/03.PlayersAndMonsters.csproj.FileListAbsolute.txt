@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\bin\Debug\netcoreapp3.0\03.PlayersAndMonsters.exe
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\bin\Debug\netcoreapp3.0\03.PlayersAndMonsters.deps.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\bin\Debug\netcoreapp3.0\03.PlayersAndMonsters.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\bin\Debug\netcoreapp3.0\03.PlayersAndMonsters.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\bin\Debug\netcoreapp3.0\03.PlayersAndMonsters.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\bin\Debug\netcoreapp3.0\03.PlayersAndMonsters.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\obj\Debug\netcoreapp3.0\03.PlayersAndMonsters.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\obj\Debug\netcoreapp3.0\03.PlayersAndMonsters.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\obj\Debug\netcoreapp3.0\03.PlayersAndMonsters.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\obj\Debug\netcoreapp3.0\03.PlayersAndMonsters.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\obj\Debug\netcoreapp3.0\03.PlayersAndMonsters.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\obj\Debug\netcoreapp3.0\03.PlayersAndMonsters.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\03.PlayersAndMonsters\03.PlayersAndMonsters\obj\Debug\netcoreapp3.0\03.PlayersAndMonsters.genruntimeconfig.cache

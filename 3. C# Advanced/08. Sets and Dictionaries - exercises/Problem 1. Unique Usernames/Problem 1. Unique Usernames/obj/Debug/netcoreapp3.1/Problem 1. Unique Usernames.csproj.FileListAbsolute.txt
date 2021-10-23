@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\bin\Debug\netcoreapp3.1\Problem 1. Unique Usernames.exe
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\bin\Debug\netcoreapp3.1\Problem 1. Unique Usernames.deps.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\bin\Debug\netcoreapp3.1\Problem 1. Unique Usernames.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\bin\Debug\netcoreapp3.1\Problem 1. Unique Usernames.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\bin\Debug\netcoreapp3.1\Problem 1. Unique Usernames.dll
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\bin\Debug\netcoreapp3.1\Problem 1. Unique Usernames.pdb
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\obj\Debug\netcoreapp3.1\Problem 1. Unique Usernames.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\obj\Debug\netcoreapp3.1\Problem 1. Unique Usernames.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\obj\Debug\netcoreapp3.1\Problem 1. Unique Usernames.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\obj\Debug\netcoreapp3.1\Problem 1. Unique Usernames.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\obj\Debug\netcoreapp3.1\Problem 1. Unique Usernames.dll
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\obj\Debug\netcoreapp3.1\Problem 1. Unique Usernames.pdb
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\Problem 1. Unique Usernames\Problem 1. Unique Usernames\obj\Debug\netcoreapp3.1\Problem 1. Unique Usernames.genruntimeconfig.cache

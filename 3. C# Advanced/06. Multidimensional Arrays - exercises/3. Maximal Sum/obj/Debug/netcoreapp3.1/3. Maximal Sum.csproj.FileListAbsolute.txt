@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.exe
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.deps.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\bin\Debug\netcoreapp3.1\3. Maximal Sum.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\3. Maximal Sum\obj\Debug\netcoreapp3.1\3. Maximal Sum.genruntimeconfig.cache

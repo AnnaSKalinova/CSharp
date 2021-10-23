@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\bin\Debug\netcoreapp3.1\Parking.exe
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\bin\Debug\netcoreapp3.1\Parking.dll
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\obj\Debug\netcoreapp3.1\Parking.dll
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+E:\AnNI\Programming\4. C# Advanced new\Exams Exercises\28.06.2020\03. Parking\03.Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

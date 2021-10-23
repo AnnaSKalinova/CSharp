@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.0\02.GenericBoxOfInteger.exe
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.0\02.GenericBoxOfInteger.deps.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.0\02.GenericBoxOfInteger.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.0\02.GenericBoxOfInteger.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.0\02.GenericBoxOfInteger.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.0\02.GenericBoxOfInteger.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.0\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.0\02.GenericBoxOfInteger.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.0\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.0\02.GenericBoxOfInteger.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.0\02.GenericBoxOfInteger.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.0\02.GenericBoxOfInteger.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.exe
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.deps.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.exe
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.deps.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\06. Songs Queue\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.genruntimeconfig.cache

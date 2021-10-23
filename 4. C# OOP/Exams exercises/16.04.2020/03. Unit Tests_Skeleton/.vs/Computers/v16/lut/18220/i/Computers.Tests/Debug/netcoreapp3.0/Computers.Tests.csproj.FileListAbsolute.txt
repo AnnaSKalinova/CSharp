@@ -1,0 +1,14 @@
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\Computers.exe
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\nunit.engine.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\nunit.engine.api.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.deps.json
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.runtimeconfig.json
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\b\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.csproj.CopyComplete
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\16.04.2020\03. Unit Tests_Skeleton\.vs\Computers\v16\lut\0\i\Computers.Tests\Debug\netcoreapp3.0\Computers.Tests.genruntimeconfig.cache

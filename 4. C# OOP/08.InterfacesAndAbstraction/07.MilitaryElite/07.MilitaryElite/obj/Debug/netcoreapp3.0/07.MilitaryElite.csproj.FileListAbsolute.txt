@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\bin\Debug\netcoreapp3.0\07.MilitaryElite.exe
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\bin\Debug\netcoreapp3.0\07.MilitaryElite.deps.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\bin\Debug\netcoreapp3.0\07.MilitaryElite.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\bin\Debug\netcoreapp3.0\07.MilitaryElite.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\bin\Debug\netcoreapp3.0\07.MilitaryElite.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\bin\Debug\netcoreapp3.0\07.MilitaryElite.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\obj\Debug\netcoreapp3.0\07.MilitaryElite.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\obj\Debug\netcoreapp3.0\07.MilitaryElite.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\obj\Debug\netcoreapp3.0\07.MilitaryElite.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\obj\Debug\netcoreapp3.0\07.MilitaryElite.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\obj\Debug\netcoreapp3.0\07.MilitaryElite.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\obj\Debug\netcoreapp3.0\07.MilitaryElite.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\07.MilitaryElite\07.MilitaryElite\obj\Debug\netcoreapp3.0\07.MilitaryElite.genruntimeconfig.cache

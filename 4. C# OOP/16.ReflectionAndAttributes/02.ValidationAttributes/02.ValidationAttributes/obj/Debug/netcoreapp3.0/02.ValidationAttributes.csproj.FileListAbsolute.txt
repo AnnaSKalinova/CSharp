@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\bin\Debug\netcoreapp3.0\02.ValidationAttributes.exe
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\bin\Debug\netcoreapp3.0\02.ValidationAttributes.deps.json
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\bin\Debug\netcoreapp3.0\02.ValidationAttributes.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\bin\Debug\netcoreapp3.0\02.ValidationAttributes.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\bin\Debug\netcoreapp3.0\02.ValidationAttributes.dll
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\bin\Debug\netcoreapp3.0\02.ValidationAttributes.pdb
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\obj\Debug\netcoreapp3.0\02.ValidationAttributes.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\obj\Debug\netcoreapp3.0\02.ValidationAttributes.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\obj\Debug\netcoreapp3.0\02.ValidationAttributes.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\obj\Debug\netcoreapp3.0\02.ValidationAttributes.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\obj\Debug\netcoreapp3.0\02.ValidationAttributes.dll
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\obj\Debug\netcoreapp3.0\02.ValidationAttributes.pdb
+E:\AnNI\Programming\5. OOP new\16.ReflectionAndAttributes\02.ValidationAttributes\02.ValidationAttributes\obj\Debug\netcoreapp3.0\02.ValidationAttributes.genruntimeconfig.cache

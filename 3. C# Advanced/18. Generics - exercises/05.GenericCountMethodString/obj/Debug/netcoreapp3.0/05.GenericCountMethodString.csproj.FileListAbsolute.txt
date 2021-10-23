@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\bin\Debug\netcoreapp3.0\05.GenericCountMethodString.exe
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\bin\Debug\netcoreapp3.0\05.GenericCountMethodString.deps.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\bin\Debug\netcoreapp3.0\05.GenericCountMethodString.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\bin\Debug\netcoreapp3.0\05.GenericCountMethodString.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\bin\Debug\netcoreapp3.0\05.GenericCountMethodString.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\bin\Debug\netcoreapp3.0\05.GenericCountMethodString.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\obj\Debug\netcoreapp3.0\05.GenericCountMethodString.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\obj\Debug\netcoreapp3.0\05.GenericCountMethodString.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\obj\Debug\netcoreapp3.0\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\obj\Debug\netcoreapp3.0\05.GenericCountMethodString.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\obj\Debug\netcoreapp3.0\05.GenericCountMethodString.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\05.GenericCountMethodString\obj\Debug\netcoreapp3.0\05.GenericCountMethodString.genruntimeconfig.cache

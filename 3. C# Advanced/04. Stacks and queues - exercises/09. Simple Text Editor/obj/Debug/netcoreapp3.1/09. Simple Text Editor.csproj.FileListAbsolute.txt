@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+E:\AnNI\Programming\4. C# Advanced new\03. Stacks and queues - exercises\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.genruntimeconfig.cache

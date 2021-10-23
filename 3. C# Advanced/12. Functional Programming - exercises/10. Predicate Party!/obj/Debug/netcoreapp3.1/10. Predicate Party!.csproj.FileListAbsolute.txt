@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.exe
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.deps.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.0\02.MultipleImplementation.exe
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.0\02.MultipleImplementation.deps.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.0\02.MultipleImplementation.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.0\02.MultipleImplementation.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.0\02.MultipleImplementation.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\bin\Debug\netcoreapp3.0\02.MultipleImplementation.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.0\02.MultipleImplementation.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.0\02.MultipleImplementation.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.0\02.MultipleImplementation.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.0\02.MultipleImplementation.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\02.MultipleImplementation\obj\Debug\netcoreapp3.0\02.MultipleImplementation.genruntimeconfig.cache

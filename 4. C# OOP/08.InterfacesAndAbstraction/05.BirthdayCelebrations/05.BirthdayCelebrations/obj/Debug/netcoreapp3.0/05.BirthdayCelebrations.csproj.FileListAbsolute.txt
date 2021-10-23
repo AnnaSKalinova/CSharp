@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\bin\Debug\netcoreapp3.0\05.BirthdayCelebrations.exe
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\bin\Debug\netcoreapp3.0\05.BirthdayCelebrations.deps.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\bin\Debug\netcoreapp3.0\05.BirthdayCelebrations.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\bin\Debug\netcoreapp3.0\05.BirthdayCelebrations.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\bin\Debug\netcoreapp3.0\05.BirthdayCelebrations.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\bin\Debug\netcoreapp3.0\05.BirthdayCelebrations.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\obj\Debug\netcoreapp3.0\05.BirthdayCelebrations.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\obj\Debug\netcoreapp3.0\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\obj\Debug\netcoreapp3.0\05.BirthdayCelebrations.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\obj\Debug\netcoreapp3.0\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\obj\Debug\netcoreapp3.0\05.BirthdayCelebrations.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\obj\Debug\netcoreapp3.0\05.BirthdayCelebrations.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\05.BirthdayCelebrations\05.BirthdayCelebrations\obj\Debug\netcoreapp3.0\05.BirthdayCelebrations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.exe
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.deps.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\bin\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\04. Find Evens or Odds\obj\Debug\netcoreapp3.1\04. Find Evens or Odds.genruntimeconfig.cache

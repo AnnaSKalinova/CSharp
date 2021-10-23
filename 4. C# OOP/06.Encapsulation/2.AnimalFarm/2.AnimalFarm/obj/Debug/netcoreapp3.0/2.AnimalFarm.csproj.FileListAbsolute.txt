@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\obj\Debug\netcoreapp3.0\2.AnimalFarm.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\obj\Debug\netcoreapp3.0\2.AnimalFarm.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\obj\Debug\netcoreapp3.0\2.AnimalFarm.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\obj\Debug\netcoreapp3.0\2.AnimalFarm.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\bin\Debug\netcoreapp3.0\2.AnimalFarm.exe
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\bin\Debug\netcoreapp3.0\2.AnimalFarm.deps.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\bin\Debug\netcoreapp3.0\2.AnimalFarm.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\bin\Debug\netcoreapp3.0\2.AnimalFarm.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\bin\Debug\netcoreapp3.0\2.AnimalFarm.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\bin\Debug\netcoreapp3.0\2.AnimalFarm.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\obj\Debug\netcoreapp3.0\2.AnimalFarm.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\obj\Debug\netcoreapp3.0\2.AnimalFarm.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\2.AnimalFarm\2.AnimalFarm\obj\Debug\netcoreapp3.0\2.AnimalFarm.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.exe
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.deps.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\bin\Debug\netcoreapp3.1\7. Predicate for Names.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.dll
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.pdb
+E:\AnNI\Programming\4. C# Advanced new\09. Functional Programming - exercises\7. Predicate for Names\obj\Debug\netcoreapp3.1\7. Predicate for Names.genruntimeconfig.cache

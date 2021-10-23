@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\bin\Debug\netcoreapp3.0\01.ClassBoxData.exe
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\bin\Debug\netcoreapp3.0\01.ClassBoxData.deps.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\bin\Debug\netcoreapp3.0\01.ClassBoxData.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\bin\Debug\netcoreapp3.0\01.ClassBoxData.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\bin\Debug\netcoreapp3.0\01.ClassBoxData.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\bin\Debug\netcoreapp3.0\01.ClassBoxData.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\obj\Debug\netcoreapp3.0\01.ClassBoxData.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\obj\Debug\netcoreapp3.0\01.ClassBoxData.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\obj\Debug\netcoreapp3.0\01.ClassBoxData.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\obj\Debug\netcoreapp3.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\obj\Debug\netcoreapp3.0\01.ClassBoxData.dll
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\obj\Debug\netcoreapp3.0\01.ClassBoxData.pdb
+E:\AnNI\Programming\5. OOP new\06.Encapsulation\01.ClassBoxData\01.ClassBoxData\obj\Debug\netcoreapp3.0\01.ClassBoxData.genruntimeconfig.cache

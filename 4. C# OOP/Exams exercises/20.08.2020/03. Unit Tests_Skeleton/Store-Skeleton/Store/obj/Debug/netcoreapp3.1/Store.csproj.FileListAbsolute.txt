@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.exe
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.json
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\bin\Debug\netcoreapp3.1\Store.pdb
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.dll
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.pdb
+E:\AnNI\Programming\5. OOP\Exams exercises\20.08.2020\03. Unit Tests_Skeleton\Store-Skeleton\Store\obj\Debug\netcoreapp3.1\Store.genruntimeconfig.cache

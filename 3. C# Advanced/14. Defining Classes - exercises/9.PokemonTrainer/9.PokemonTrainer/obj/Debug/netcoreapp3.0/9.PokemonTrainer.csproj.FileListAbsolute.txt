@@ -1,0 +1,26 @@
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.exe
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.deps.json
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.dll
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.pdb
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.dll
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.pdb
+E:\AnNI\Programming\4. C# Advanced new\11. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.genruntimeconfig.cache
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.exe
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.deps.json
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.dll
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\bin\Debug\netcoreapp3.0\9.PokemonTrainer.pdb
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.dll
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.pdb
+E:\AnNI\Programming\4. C# Advanced\14. Defining Classes - exercises\9.PokemonTrainer\9.PokemonTrainer\obj\Debug\netcoreapp3.0\9.PokemonTrainer.genruntimeconfig.cache

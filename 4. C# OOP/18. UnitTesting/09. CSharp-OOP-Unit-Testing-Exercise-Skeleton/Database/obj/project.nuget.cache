@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "es+01iTD2z5leFm+eKbwY+e8Royq3VGncoxK239D8FUl9579GhUeQs4sRkJbOMzAMONIB4r7ZhHPH8MT1YIA2w==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\5. OOP\\18. UnitTesting\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\Database\\Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.testplatform\\16.8.0\\microsoft.testplatform.16.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\bin\Debug\netcoreapp3.0\03.Telephony.exe
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\bin\Debug\netcoreapp3.0\03.Telephony.deps.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\bin\Debug\netcoreapp3.0\03.Telephony.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\bin\Debug\netcoreapp3.0\03.Telephony.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\bin\Debug\netcoreapp3.0\03.Telephony.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\bin\Debug\netcoreapp3.0\03.Telephony.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.dll
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.pdb
+E:\AnNI\Programming\5. OOP new\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.genruntimeconfig.cache
+E:\AnNI\Programming\5. OOP\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.dll
+E:\AnNI\Programming\5. OOP\08.InterfacesAndAbstraction\03.Telephony\03.Telephony\obj\Debug\netcoreapp3.0\03.Telephony.pdb

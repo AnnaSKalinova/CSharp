@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AyHyqvtR+hhJDMM7J+aFwSLqOszLeDxfdUToqddQWIvq2YdngA8RTz3cdP3gEJEUtdXf4XO7s476VzSnTy6y2Q==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\4. C# Advanced new\\13. Generics - exercises\\08.Threeuple\\08.Threeuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

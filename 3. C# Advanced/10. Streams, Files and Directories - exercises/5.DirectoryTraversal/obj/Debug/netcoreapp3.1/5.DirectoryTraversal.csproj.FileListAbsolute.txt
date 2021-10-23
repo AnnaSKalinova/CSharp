@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\bin\Debug\netcoreapp3.1\5.DirectoryTraversal.exe
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\bin\Debug\netcoreapp3.1\5.DirectoryTraversal.deps.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\bin\Debug\netcoreapp3.1\5.DirectoryTraversal.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\bin\Debug\netcoreapp3.1\5.DirectoryTraversal.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\bin\Debug\netcoreapp3.1\5.DirectoryTraversal.dll
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\bin\Debug\netcoreapp3.1\5.DirectoryTraversal.pdb
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.dll
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.pdb
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.genruntimeconfig.cache

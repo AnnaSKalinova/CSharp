@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.exe
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.deps.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.dll
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.pdb
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.dll
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.pdb
+E:\AnNI\Programming\4. C# Advanced\10. Streams, Files and Directories - exercises\1. Even Lines\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fk4eBPQgn20xQfC4CUjchyWTcOOUenXyXIzEObKe519zLaL1eiOeLX1tW+DEw3cvqs0E3Vguz6Mp40VO8SIpJQ==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\4. C# Advanced new\\11. Defining Classes - exercises\\05.DateModifier\\05.DateModifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

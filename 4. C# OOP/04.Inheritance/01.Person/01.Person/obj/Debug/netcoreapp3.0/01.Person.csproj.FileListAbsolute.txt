@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\bin\Debug\netcoreapp3.0\01.Person.exe
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\bin\Debug\netcoreapp3.0\01.Person.deps.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\bin\Debug\netcoreapp3.0\01.Person.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\bin\Debug\netcoreapp3.0\01.Person.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\bin\Debug\netcoreapp3.0\01.Person.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\bin\Debug\netcoreapp3.0\01.Person.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\obj\Debug\netcoreapp3.0\01.Person.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\obj\Debug\netcoreapp3.0\01.Person.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\obj\Debug\netcoreapp3.0\01.Person.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\obj\Debug\netcoreapp3.0\01.Person.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\obj\Debug\netcoreapp3.0\01.Person.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\obj\Debug\netcoreapp3.0\01.Person.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\01.Person\01.Person\obj\Debug\netcoreapp3.0\01.Person.genruntimeconfig.cache

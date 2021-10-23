@@ -1,0 +1,12 @@
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.exe
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.deps.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.dll
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.pdb
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.dll
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.pdb
+E:\AnNI\Programming\4. C# Advanced new\07. Sets and Dictionaries - exercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.genruntimeconfig.cache

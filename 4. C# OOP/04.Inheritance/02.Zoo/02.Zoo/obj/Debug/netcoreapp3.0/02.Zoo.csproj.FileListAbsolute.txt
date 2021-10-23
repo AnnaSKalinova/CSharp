@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\bin\Debug\netcoreapp3.0\02.Zoo.exe
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\bin\Debug\netcoreapp3.0\02.Zoo.deps.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\bin\Debug\netcoreapp3.0\02.Zoo.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\bin\Debug\netcoreapp3.0\02.Zoo.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\bin\Debug\netcoreapp3.0\02.Zoo.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\bin\Debug\netcoreapp3.0\02.Zoo.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\obj\Debug\netcoreapp3.0\02.Zoo.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\obj\Debug\netcoreapp3.0\02.Zoo.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\obj\Debug\netcoreapp3.0\02.Zoo.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\obj\Debug\netcoreapp3.0\02.Zoo.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\obj\Debug\netcoreapp3.0\02.Zoo.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\obj\Debug\netcoreapp3.0\02.Zoo.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\02.Zoo\02.Zoo\obj\Debug\netcoreapp3.0\02.Zoo.genruntimeconfig.cache

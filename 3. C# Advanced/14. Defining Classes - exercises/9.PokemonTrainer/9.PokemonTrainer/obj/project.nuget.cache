@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPTuizRI2hEvIcjEsoq96otx4ove7FmKNwt4QaI3f13ko8LC5tbM9ZP9fz2RUq3ri//fNGHG6UpTE0Wkqe5uCw==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\4. C# Advanced\\14. Defining Classes - exercises\\9.PokemonTrainer\\9.PokemonTrainer\\9.PokemonTrainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

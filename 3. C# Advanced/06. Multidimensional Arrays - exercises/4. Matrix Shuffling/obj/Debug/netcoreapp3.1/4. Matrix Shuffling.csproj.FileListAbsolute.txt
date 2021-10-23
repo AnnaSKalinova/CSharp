@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.exe
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.deps.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.genruntimeconfig.cache
+E:\AnNI\Programming\4. C# Advanced new\05. Multidimensional Arrays - exercises\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csprojAssemblyReference.cache

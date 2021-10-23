@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\bin\Debug\netcoreapp3.0\01.GenericBoxOfString.exe
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\bin\Debug\netcoreapp3.0\01.GenericBoxOfString.deps.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\bin\Debug\netcoreapp3.0\01.GenericBoxOfString.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\bin\Debug\netcoreapp3.0\01.GenericBoxOfString.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\bin\Debug\netcoreapp3.0\01.GenericBoxOfString.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\bin\Debug\netcoreapp3.0\01.GenericBoxOfString.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\obj\Debug\netcoreapp3.0\01.GenericBoxOfString.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\obj\Debug\netcoreapp3.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\obj\Debug\netcoreapp3.0\01.GenericBoxOfString.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\obj\Debug\netcoreapp3.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\obj\Debug\netcoreapp3.0\01.GenericBoxOfString.dll
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\obj\Debug\netcoreapp3.0\01.GenericBoxOfString.pdb
+E:\AnNI\Programming\4. C# Advanced new\13. Generics - exercises\01.GenericBoxOfString\01.GenericBoxOfString\obj\Debug\netcoreapp3.0\01.GenericBoxOfString.genruntimeconfig.cache

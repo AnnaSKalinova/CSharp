@@ -1,0 +1,13 @@
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.exe
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.deps.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.runtimeconfig.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.runtimeconfig.dev.json
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\bin\Debug\netcoreapp3.0\NeedForSpeed.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.csprojAssemblyReference.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.AssemblyInfoInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.AssemblyInfo.cs
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.dll
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.pdb
+E:\AnNI\Programming\5. OOP new\04.Inheritance\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.0\NeedForSpeed.genruntimeconfig.cache

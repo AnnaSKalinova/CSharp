@@ -1,0 +1,13 @@
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.exe
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.deps.json
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.json
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.dev.json
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.dll
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.pdb
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csprojAssemblyReference.cache
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfoInputs.cache
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfo.cs
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.CoreCompileInputs.cache
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.dll
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.pdb
+E:\AnNI\Programming\4. C# Advanced\06. Multidimensional Arrays - exercises\5. Snake Moves\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.genruntimeconfig.cache
