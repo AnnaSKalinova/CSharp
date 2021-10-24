@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Giftbox Coverage", "01. Giftbox Coverage\01. Giftbox Coverage.csproj", "{7920892E-0A09-40FB-A668-371235ACAF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Task Planner", "..\..\02. Task Planner\02. Task Planner\02. Task Planner.csproj", "{232D7923-7D6C-45A7-8F82-C689FCE1B94A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Froggy Squad", "..\..\03. Froggy Squad\03. Froggy Squad\03. Froggy Squad.csproj", "{4B2FB8D3-49FF-4CAF-8FB5-72D64698D39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7920892E-0A09-40FB-A668-371235ACAF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7920892E-0A09-40FB-A668-371235ACAF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7920892E-0A09-40FB-A668-371235ACAF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7920892E-0A09-40FB-A668-371235ACAF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232D7923-7D6C-45A7-8F82-C689FCE1B94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232D7923-7D6C-45A7-8F82-C689FCE1B94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232D7923-7D6C-45A7-8F82-C689FCE1B94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232D7923-7D6C-45A7-8F82-C689FCE1B94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2FB8D3-49FF-4CAF-8FB5-72D64698D39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2FB8D3-49FF-4CAF-8FB5-72D64698D39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2FB8D3-49FF-4CAF-8FB5-72D64698D39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2FB8D3-49FF-4CAF-8FB5-72D64698D39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5651869A-5063-427A-AA23-74AAC766CC0A}
+	EndGlobalSection
+EndGlobal
