@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VvMUoRbDZ6uxpZNw58qSm2koCv1/bzLr4zH6k5ldpBTEkECDYKTx2dJYwe8fHmMnVjKf1b/Z2qPm1w+g0HaZ9w==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\CSharp\\CSharp\\1. C# Programming Basics\\10. Loops 2 Part\\04.Sequence2k+1\\04.Sequence2k+1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

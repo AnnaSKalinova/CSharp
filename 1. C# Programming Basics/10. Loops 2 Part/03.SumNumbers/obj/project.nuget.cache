@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U46v9V7VUCx2I2LqjMxuyZB18B3RpL79ALK3EH42OEHHt9qWcSnedkXEP5pCYJgONMQrMdBGE9FgtfXG0WGzXA==",
+  "success": true,
+  "projectFilePath": "E:\\AnNI\\Programming\\CSharp\\CSharp\\1. C# Programming Basics\\10. Loops 2 Part\\03.SumNumbers\\03.SumNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
