@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AnNI\\Programming\\Programming Ani NEW\\1. Programming Basics NEW\\10. Цикли - втора част\\04.Sequence2k+1\\04.Sequence2k+1.csproj",
+      "projectUniqueName": "E:\\AnNI\\Programming\\CSharp\\CSharp\\1. C# Programming Basics\\10. Loops 2 Part\\04.Sequence2k+1\\04.Sequence2k+1.csproj",
       "projectName": "04.Sequence2k+1",
-      "projectPath": "E:\\AnNI\\Programming\\Programming Ani NEW\\1. Programming Basics NEW\\10. Цикли - втора част\\04.Sequence2k+1\\04.Sequence2k+1.csproj",
+      "projectPath": "E:\\AnNI\\Programming\\CSharp\\CSharp\\1. C# Programming Basics\\10. Loops 2 Part\\04.Sequence2k+1\\04.Sequence2k+1.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "E:\\AnNI\\Programming\\Programming Ani NEW\\1. Programming Basics NEW\\10. Цикли - втора част\\04.Sequence2k+1\\obj\\",
+      "outputPath": "E:\\AnNI\\Programming\\CSharp\\CSharp\\1. C# Programming Basics\\10. Loops 2 Part\\04.Sequence2k+1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -36,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -57,12 +59,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.18, 3.1.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
